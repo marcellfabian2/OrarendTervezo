@@ -1,0 +1,205 @@
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\bin\Debug\Orarend.exe.config
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\bin\Debug\Orarend.exe
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\bin\Debug\Orarend.pdb
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\obj\Debug\MainWindow.g.cs
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\obj\Debug\App.g.cs
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.cache
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.lref
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\obj\Debug\MainWindow.baml
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.g.resources
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.Properties.Resources.resources
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.csproj.GenerateResource.cache
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.exe
+Z:\11.év\IKT\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.pdb
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\App.g.cs
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.cache
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.exe
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.pdb
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\bin\Debug\Orarend.exe.config
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\bin\Debug\Orarend.exe
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\bin\Debug\Orarend.pdb
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\MainWindow.g.cs
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\MainWindow.baml
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.g.resources
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.Properties.Resources.resources
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.csproj.GenerateResource.cache
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\bin\Debug\Orarend.exe.config
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\bin\Debug\Orarend.exe
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\bin\Debug\Orarend.pdb
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.exe.config
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\MainWindow.baml
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\MainWindow.g.cs
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\App.g.cs
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.cache
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.g.resources
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.Properties.Resources.resources
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.csproj.GenerateResource.cache
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.exe
+E:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.pdb
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend(0.1)\Orarend\Orarend\obj\Debug\Orarend.exe.config
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\bin\Debug\Orarend.exe.config
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\bin\Debug\Orarend.exe
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\bin\Debug\Orarend.pdb
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\obj\Debug\Orarend.exe.config
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\obj\Debug\App.g.cs
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.cache
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\obj\Debug\Orarend.g.resources
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\obj\Debug\Orarend.Properties.Resources.resources
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\obj\Debug\Orarend.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\obj\Debug\Orarend.exe
+C:\Users\user\Downloads\Orarend002\Orarend\Orarend\obj\Debug\Orarend.pdb
+C:\Users\marce\OneDrive\Desktop\Orarend002\Orarend\Orarend\bin\Debug\Orarend.exe.config
+C:\Users\marce\OneDrive\Desktop\Orarend002\Orarend\Orarend\bin\Debug\Orarend.exe
+C:\Users\marce\OneDrive\Desktop\Orarend002\Orarend\Orarend\bin\Debug\Orarend.pdb
+C:\Users\marce\OneDrive\Desktop\Orarend002\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\Orarend002\Orarend\Orarend\obj\Debug\MainWindow.baml
+C:\Users\marce\OneDrive\Desktop\Orarend002\Orarend\Orarend\obj\Debug\MainWindow.g.cs
+C:\Users\marce\OneDrive\Desktop\Orarend002\Orarend\Orarend\obj\Debug\App.g.cs
+C:\Users\marce\OneDrive\Desktop\Orarend002\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.cache
+C:\Users\marce\OneDrive\Desktop\Orarend002\Orarend\Orarend\obj\Debug\Orarend.g.resources
+C:\Users\marce\OneDrive\Desktop\Orarend002\Orarend\Orarend\obj\Debug\Orarend.Properties.Resources.resources
+C:\Users\marce\OneDrive\Desktop\Orarend002\Orarend\Orarend\obj\Debug\Orarend.csproj.GenerateResource.cache
+C:\Users\marce\OneDrive\Desktop\Orarend002\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\Orarend002\Orarend\Orarend\obj\Debug\Orarend.exe
+C:\Users\marce\OneDrive\Desktop\Orarend002\Orarend\Orarend\obj\Debug\Orarend.pdb
+C:\Users\marce\OneDrive\Desktop\Orarend03\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\Orarend03\Orarend\Orarend\obj\Debug\MainWindow.baml
+C:\Users\marce\OneDrive\Desktop\Orarend03\Orarend\Orarend\obj\Debug\MainWindow.g.cs
+C:\Users\marce\OneDrive\Desktop\Orarend03\Orarend\Orarend\obj\Debug\App.g.cs
+C:\Users\marce\OneDrive\Desktop\Orarend03\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.cache
+C:\Users\marce\OneDrive\Desktop\Orarend03\Orarend\Orarend\obj\Debug\Orarend.g.resources
+C:\Users\marce\OneDrive\Desktop\Orarend03\Orarend\Orarend\obj\Debug\Orarend.Properties.Resources.resources
+C:\Users\marce\OneDrive\Desktop\Orarend03\Orarend\Orarend\obj\Debug\Orarend.csproj.GenerateResource.cache
+C:\Users\marce\OneDrive\Desktop\Orarend03\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\Orarend03\Orarend\Orarend\obj\Debug\Orarend.exe
+C:\Users\marce\OneDrive\Desktop\Orarend03\Orarend\Orarend\obj\Debug\Orarend.pdb
+C:\Users\marce\OneDrive\Desktop\Orarend03\Orarend\Orarend\bin\Debug\Orarend.exe.config
+C:\Users\marce\OneDrive\Desktop\Orarend03\Orarend\Orarend\bin\Debug\Orarend.exe
+C:\Users\marce\OneDrive\Desktop\Orarend03\Orarend\Orarend\bin\Debug\Orarend.pdb
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\bin\Debug\Orarend.exe.config
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\bin\Debug\Orarend.exe
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\bin\Debug\Orarend.pdb
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.exe.config
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\obj\Debug\MainWindow.baml
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\obj\Debug\MainWindow.g.cs
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\obj\Debug\App.g.cs
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.cache
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.g.resources
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.Properties.Resources.resources
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.csproj.GenerateResource.cache
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.exe
+D:\12. osztály\IKT_projektmunka_II_gyakorlat\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.pdb
+C:\Users\marce\OneDrive\Desktop\Orarend\Orarend03\Orarend\Orarend\bin\Debug\Orarend.exe.config
+C:\Users\marce\OneDrive\Desktop\Orarend\Orarend03\Orarend\Orarend\bin\Debug\Orarend.exe
+C:\Users\marce\OneDrive\Desktop\Orarend\Orarend03\Orarend\Orarend\bin\Debug\Orarend.pdb
+C:\Users\marce\OneDrive\Desktop\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\Orarend\Orarend03\Orarend\Orarend\obj\Debug\MainWindow.baml
+C:\Users\marce\OneDrive\Desktop\Orarend\Orarend03\Orarend\Orarend\obj\Debug\MainWindow.g.cs
+C:\Users\marce\OneDrive\Desktop\Orarend\Orarend03\Orarend\Orarend\obj\Debug\App.g.cs
+C:\Users\marce\OneDrive\Desktop\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.cache
+C:\Users\marce\OneDrive\Desktop\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.g.resources
+C:\Users\marce\OneDrive\Desktop\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.Properties.Resources.resources
+C:\Users\marce\OneDrive\Desktop\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.csproj.GenerateResource.cache
+C:\Users\marce\OneDrive\Desktop\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.exe
+C:\Users\marce\OneDrive\Desktop\Orarend\Orarend03\Orarend\Orarend\obj\Debug\Orarend.pdb
+D:\Orarend\Orarend04\Orarend\Orarend\bin\Debug\Orarend.exe.config
+D:\Orarend\Orarend04\Orarend\Orarend\bin\Debug\Orarend.exe
+D:\Orarend\Orarend04\Orarend\Orarend\bin\Debug\Orarend.pdb
+D:\Orarend\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+D:\Orarend\Orarend04\Orarend\Orarend\obj\Debug\Orarend.exe.config
+D:\Orarend\Orarend04\Orarend\Orarend\obj\Debug\MainWindow.baml
+D:\Orarend\Orarend04\Orarend\Orarend\obj\Debug\MainWindow.g.cs
+D:\Orarend\Orarend04\Orarend\Orarend\obj\Debug\App.g.cs
+D:\Orarend\Orarend04\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.cache
+D:\Orarend\Orarend04\Orarend\Orarend\obj\Debug\Orarend.g.resources
+D:\Orarend\Orarend04\Orarend\Orarend\obj\Debug\Orarend.Properties.Resources.resources
+D:\Orarend\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.GenerateResource.cache
+D:\Orarend\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+D:\Orarend\Orarend04\Orarend\Orarend\obj\Debug\Orarend.exe
+D:\Orarend\Orarend04\Orarend\Orarend\obj\Debug\Orarend.pdb
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\bin\Debug\Orarend.exe.config
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\bin\Debug\Orarend.exe
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\bin\Debug\Orarend.pdb
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\obj\Debug\Orarend.exe.config
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\obj\Debug\App.g.cs
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.cache
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\obj\Debug\Orarend.g.resources
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\obj\Debug\Orarend.Properties.Resources.resources
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\obj\Debug\Orarend.exe
+C:\Users\user\Downloads\Orarend04-20260225T193902Z-3-001\Orarend04\Orarend\Orarend\obj\Debug\Orarend.pdb
+E:\Orarend005\Orarend04\Orarend\Orarend\bin\Debug\Orarend.exe.config
+E:\Orarend005\Orarend04\Orarend\Orarend\bin\Debug\Orarend.exe
+E:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+E:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.exe.config
+E:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\MainWindow.baml
+E:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\MainWindow.g.cs
+E:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\App.g.cs
+E:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.cache
+E:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.g.resources
+E:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.Properties.Resources.resources
+E:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.GenerateResource.cache
+E:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+E:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.exe
+E:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.pdb
+E:\Orarend005\Orarend04\Orarend\Orarend\bin\Debug\Orarend.pdb
+D:\Orarend005\Orarend04\Orarend\Orarend\bin\Debug\Orarend.exe.config
+D:\Orarend005\Orarend04\Orarend\Orarend\bin\Debug\Orarend.exe
+D:\Orarend005\Orarend04\Orarend\Orarend\bin\Debug\Orarend.pdb
+D:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+D:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\MainWindow.baml
+D:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\MainWindow.g.cs
+D:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\App.g.cs
+D:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.cache
+D:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.g.resources
+D:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.Properties.Resources.resources
+D:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.GenerateResource.cache
+D:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+D:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.exe
+D:\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.pdb
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\bin\Debug\Orarend.exe.config
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\bin\Debug\Orarend.exe
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\bin\Debug\Orarend.pdb
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.exe.config
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\App.g.cs
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.cache
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.g.resources
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.Properties.Resources.resources
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.exe
+C:\Users\user\Downloads\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.pdb
+D:\Orarend005\Orarend005\Orarend04\Orarend\Orarend\bin\Debug\Orarend.exe.config
+D:\Orarend005\Orarend005\Orarend04\Orarend\Orarend\bin\Debug\Orarend.exe
+D:\Orarend005\Orarend005\Orarend04\Orarend\Orarend\bin\Debug\Orarend.pdb
+D:\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.AssemblyReference.cache
+D:\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\MainWindow.baml
+D:\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\MainWindow.g.cs
+D:\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\App.g.cs
+D:\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend_MarkupCompile.cache
+D:\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.g.resources
+D:\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.Properties.Resources.resources
+D:\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.GenerateResource.cache
+D:\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.csproj.CoreCompileInputs.cache
+D:\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.exe
+D:\Orarend005\Orarend005\Orarend04\Orarend\Orarend\obj\Debug\Orarend.pdb
